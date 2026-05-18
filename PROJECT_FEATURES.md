@@ -19,3 +19,11 @@ The system allows customers to create new accounts.
 - OTP verification enabled
 **Status: Implemented**
 Updated registration workflow
+
+## FR-forgot-password: Password Reset System
+The system allows users to reset forgotten passwords securely.
+- Email verification added
+- OTP verification flow implemented
+- Password reset validation added
+- Redirect to login after reset enabled
+**Status: Implemented**
