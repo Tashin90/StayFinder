@@ -26,4 +26,6 @@ The system allows customers and hosts to sign into their accounts.
 - Invalid credential validation added
 - Remember me functionality enabled
 - Redirect to dashboard after login
+## FR-host-registration: Host Registration System
+Host can create account and manage listings
 **Status: Implemented**
