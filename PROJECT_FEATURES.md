@@ -19,3 +19,11 @@ The system allows customers to create new accounts.
 - OTP verification enabled
 **Status: Implemented**
 Updated registration workflow
+
+## FR-admin-property-approval: Property Approval System
+The system allows administrators to approve or reject property listings.
+- Property review panel added
+- Approve and reject options enabled
+- Listing moderation functionality added
+- Admin notification system enabled
+**Status: Implemented**
