@@ -19,3 +19,11 @@ The system allows customers to create new accounts.
 - OTP verification enabled
 **Status: Implemented**
 Updated registration workflow
+
+## FR-host-add-property: Add Property Listing System
+The system allows hosts to create and publish property listings.
+- Property title and description required
+- Image upload functionality added
+- Price and location validation added
+- Property publish option enabled
+**Status: Implemented**
