@@ -20,6 +20,12 @@ The system allows customers to create new accounts.
 **Status: Implemented**
 Updated registration workflow
 
+## FR-host-add-property: Add Property Listing System
+The system allows hosts to create and publish property listings.
+- Property title and description required
+- Image upload functionality added
+- Price and location validation added
+- Property publish option enabled
 ## FR-forgot-password: Password Reset System
 The system allows users to reset forgotten passwords securely.
 - Email verification added
