@@ -26,4 +26,12 @@ The system allows users to reset forgotten passwords securely.
 - OTP verification flow implemented
 - Password reset validation added
 - Redirect to login after reset enabled
+## FR-user-signin: Customer/Host Login System
+The system allows customers and hosts to sign into their accounts.
+- Email and password authentication added
+- Invalid credential validation added
+- Remember me functionality enabled
+- Redirect to dashboard after login
+## FR-host-registration: Host Registration System
+Host can create account and manage listings
 **Status: Implemented**
