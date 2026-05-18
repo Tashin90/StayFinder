@@ -1,5 +1,12 @@
 # Implemented Features
 
+## FR-customer-partial-booking-payment: Partial Booking Payment System
+The system allows customers to create bookings with partial payment.
+- Partial payment option enabled
+- Booking confirmation after deposit added
+- Remaining balance tracking implemented
+- Payment validation added
+*Status: Implemented*
 ## FR-customer-cart-management: Cart Management System
 The system allows customers to manage booking items in the cart.
 - Add to cart functionality added
