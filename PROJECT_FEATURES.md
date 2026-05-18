@@ -19,3 +19,7 @@ The system allows customers to create new accounts.
 - OTP verification enabled
 **Status: Implemented**
 Updated registration workflow
+
+## FR-host-registration: Host Registration System
+Host can create account and manage listings
+**Status: Implemented**
