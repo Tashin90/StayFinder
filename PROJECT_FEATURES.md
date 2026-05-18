@@ -19,3 +19,11 @@ The system allows customers to create new accounts.
 - OTP verification enabled
 **Status: Implemented**
 Updated registration workflow
+
+## FR-user-signin: Customer/Host Login System
+The system allows customers and hosts to sign into their accounts.
+- Email and password authentication added
+- Invalid credential validation added
+- Remember me functionality enabled
+- Redirect to dashboard after login
+**Status: Implemented**
