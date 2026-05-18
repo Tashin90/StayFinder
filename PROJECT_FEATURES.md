@@ -18,3 +18,4 @@ The system allows customers to create new accounts.
 - Password validation added
 - OTP verification enabled
 **Status: Implemented**
+Updated registration workflow
