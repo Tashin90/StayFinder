@@ -20,6 +20,12 @@ The system allows customers to create new accounts.
 **Status: Implemented**
 Updated registration workflow
 
+## FR-admin-category-management: Property Category Management System
+The system allows administrators to manage property categories and types.
+- Add category functionality enabled
+- Edit and delete category options added
+- Property type management system added
+- Category validation implemented
 ## FR-admin-property-approval: Property Approval System
 The system allows administrators to approve or reject property listings.
 - Property review panel added
