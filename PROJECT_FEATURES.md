@@ -20,6 +20,12 @@ The system allows customers to create new accounts.
 **Status: Implemented**
 Updated registration workflow
 
+## FR-forgot-password: Password Reset System
+The system allows users to reset forgotten passwords securely.
+- Email verification added
+- OTP verification flow implemented
+- Password reset validation added
+- Redirect to login after reset enabled
 ## FR-user-signin: Customer/Host Login System
 The system allows customers and hosts to sign into their accounts.
 - Email and password authentication added
